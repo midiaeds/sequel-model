@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add PaddlePaddle Docs Integrations Page (#8858)
