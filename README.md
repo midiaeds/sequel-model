@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update HTTP to HTTPS (#7548)
