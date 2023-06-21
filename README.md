@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Move Explorer tests to scheduled CI (#8305)
