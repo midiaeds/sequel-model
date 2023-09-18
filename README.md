@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update HTTP to HTTPS (#7548)
