@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Explorer with LanceDB, Actions and Docs updates (#7487)
