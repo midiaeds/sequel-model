@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Merge pull request #22 from SkalskiP/patch-1
