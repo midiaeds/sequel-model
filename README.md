@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix Multi-GPU resume bug (#7328)
